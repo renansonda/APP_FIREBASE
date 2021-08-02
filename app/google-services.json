@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485888756820",
+    "project_id": "crud-firebase-faesp",
+    "storage_bucket": "crud-firebase-faesp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485888756820:android:c3d1d5c82cdc0cbbfd71c1",
+        "android_client_info": {
+          "package_name": "br.edu.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485888756820-4428k86n9ntd6vusj77jvgscnr1dn6dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEJYTPf51yF6EKBMRz9Y4rS67Ai3DEhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485888756820-4428k86n9ntd6vusj77jvgscnr1dn6dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
